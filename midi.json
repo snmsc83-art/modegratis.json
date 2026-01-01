@@ -1,5 +1,12 @@
 {
-  "api_url": "https://script.google.com/macros/s/AKfycbyR2dqdbWPDGWX2Y1JJZ8l16jwB-ajatE7XHWZ3TiBWjJmQuAfrYs8aPGphKxNuI51EThg/exec",
-  "status": "active",
-  "pesan": "Server Online"
+  "status": true,
+  "message": "Data loaded from GitHub Direct",
+  "google_script_url": null,
+  "data": {
+    "harga_1": "Rp.288.000,-/Lisensi",
+    "harga_2": "",
+    "harga_3": "",
+    "info_beli": "Silakan hubungi admin via WhatsApp untuk melakukan pembelian lisensi PRO dan menghilangkan batasan limit.",
+    "link": "https://wa.me/628123456789?text=Halo%20Admin%20Saya%20Mau%20Upgrade%20ke%20Versi%20PRO"
+  }
 }
